@@ -36,15 +36,6 @@ I'm a passionate software developer with experience in Android development and f
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## GitHub Statistics
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sheethalkaran&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=06D6A0&fire=FF6B6B&currStreakLabel=06D6A0" />
-</div>
-
-
 ---
 
 ## Connect With Me
