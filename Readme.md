@@ -41,8 +41,9 @@ I'm a passionate software developer with experience in Android development and f
 
 ## GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sheethalkaran&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=06D6A0&fire=FF6B6B&currStreakLabel=06D6A0" />
+  <img src="https://streak-stats.demolab.com?user=sheethalkaran&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=06D6A0&fire=FF6B6B&currStreakLabel=06D6A0" />
 </div>
+
 
 ---
 
