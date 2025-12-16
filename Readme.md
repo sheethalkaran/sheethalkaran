@@ -1,13 +1,17 @@
 # Hello, I'm Sheethal Karan 👋
 Software Developer | Android & Full-Stack Development | India
+
 ---
+
 ## About Me
-I'm a passionate software developer with experience in Android development and full-stack web applications. I enjoy building practical solutions using modern technologies and have a strong foundation in machine learning and data analysis.
-- 🔭 Currently working on IoT-based Emergency Ambulance Services
-- 🌱 Learning Advanced Machine Learning & Cloud Technologies
-- 👯 Open to collaborating on Android apps, Web applications, and ML projects
-- 💼 Former Android Development Intern at Sasken Technologies Limited (June - July 2025)
-- 📫 Reach me at: sheethalkaran89@gmail.com
+Software developer with experience in Android and full-stack web applications development. I focus on building reliable, scalable solutions using modern technologies, with working knowledge of machine learning and data analysis.
+
+- Currently working on an IoT-based Emergency Ambulance Services project  
+- Expanding skills in advanced machine learning and cloud technologies  
+- Available for collaboration on Android, web, and machine learning projects  
+- Former Android Development Intern at Sasken Technologies Limited (June – July 2025)  
+- Email: sheethalkaran89@gmail.com
+  
 ---
 
 ## Technical Skills
@@ -32,10 +36,11 @@ I'm a passionate software developer with experience in Android development and f
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Data Analysis & Visualization:**  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Data Analysis and Visualization:**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
 ---
 
 ## Connect With Me
