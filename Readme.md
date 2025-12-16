@@ -1,6 +1,7 @@
 # Hello, I'm Sheethal Karan 👋
 Software Developer | Android & Full-Stack Development | India
 
+---
 
 ## About Me
 Software developer with experience in Android and full-stack web applications development. I focus on building reliable, scalable solutions using modern technologies, with working knowledge of machine learning and data analysis.
@@ -11,6 +12,7 @@ Software developer with experience in Android and full-stack web applications de
 - Former Android Development Intern at Sasken Technologies Limited (June – July 2025)  
 - Email: sheethalkaran89@gmail.com
   
+---
 
 ## Technical Skills
 
@@ -39,6 +41,7 @@ Software developer with experience in Android and full-stack web applications de
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
 
 ## Connect With Me
 
