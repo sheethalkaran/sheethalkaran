@@ -22,36 +22,9 @@ Currently Learning:
   - System Design
 ```
 
-
-
+## Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/sheethalkaran">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="55"/>
-  </a>
-
-  <a href="mailto:sheethalkaran89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="55"/>
-  </a>
-
-  <a href="https://github.com/sheethalkaran">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="55"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sheethalkaran">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
-  </a>
-  &ensp;&ensp;
-  <a href="mailto:sheethalkaran89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="60"/>
-  </a>
-  &ensp;&ensp;
-  <a href="https://github.com/sheethalkaran">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="60"/>
-  </a>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheethalkaran)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheethalkaran89@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheethalkaran)
+</p>
