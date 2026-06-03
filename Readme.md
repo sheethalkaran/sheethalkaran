@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:6BCBFF&height=250&section=header&text=Sheethal%20Karan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=24,20,17,12&text=Sheethal%20Karan&fontColor=ffffff&fontSize=65&animation=twinkling"/>
+</p>
 </p>
 
 <p align="center">
