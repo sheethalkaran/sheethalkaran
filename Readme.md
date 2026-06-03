@@ -29,19 +29,22 @@ Currently Learning:
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheethalkaran)
 </p>
 
-
-## Let's Connect
 <div align="center">
-<a href="https://linkedin.com/in/sheethalkaran">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-</a>
+
+## 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/sheethalkaran">LinkedIn</a> •
+<a href="mailto:sheethalkaran89@gmail.com">Email</a> •
+<a href="https://github.com/sheethalkaran">GitHub</a>
+
+</div>
 
 <a href="mailto:sheethalkaran89@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/sheethalkaran">
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -51,16 +54,18 @@ Currently Learning:
 
 ## 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/sheethalkaran">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 
-<a href="mailto:sheethalkaran89@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</div>
 
-<a href="https://github.com/sheethalkaran">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/sheethalkaran">LinkedIn</a> •
+<a href="mailto:sheethalkaran89@gmail.com">Email</a> •
+<a href="https://github.com/sheethalkaran">GitHub</a>
 
 </div>
