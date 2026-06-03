@@ -1,49 +1,141 @@
-# Hello, I'm Sheethal Karan 👋
-Software Developer | Android & Full-Stack Development | India
+```
+  ██████  ██   ██ ███████ ███████ ████████ ██   ██  █████  ██
+ ██       ██   ██ ██      ██         ██    ██   ██ ██   ██ ██
+  █████   ███████ █████   █████      ██    ███████ ███████ ██
+      ██  ██   ██ ██      ██         ██    ██   ██ ██   ██ ██
+ ██████   ██   ██ ███████ ███████    ██    ██   ██ ██   ██ ███████
+                                                          karan
+```
 
+<div align="center">
 
+**`building stuff that actually works`**
 
-## About Me
-Software developer with experience in Android and full-stack web applications development. I focus on building reliable, scalable solutions using modern technologies, with working knowledge of machine learning and data analysis.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+undergrad+%40+SMVITM;Android+%7C+Full-Stack+%7C+ML;turning+caffeine+into+commits)](https://git.io/typing-svg)
 
-- Currently working on an IoT-based Emergency Ambulance Services project  
-- Expanding skills in advanced machine learning and cloud technologies  
-- Available for collaboration on Android, web, and machine learning projects  
-- Former Android Development Intern at Sasken Technologies Limited (June – July 2025)  
-- Email: sheethalkaran89@gmail.com
-  
+</div>
 
-## Technical Skills
+---
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### `whoami`
 
-**Frameworks & Technologies:**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+```python
+sheethal = {
+    "location"   : "Udupi, Karnataka 🇮🇳",
+    "degree"     : "B.E. AI & Data Science → SMVITM (2026)",
+    "cgpa"       : 8.9,
+    "building"   : ["Android apps", "full-stack APIs", "ML pipelines"],
+    "prev"       : ["Infosys Springboard", "Edunet Foundation", "Sasken Technologies"],
+    "contact"    : "sheethalkaran89@gmail.com",
+    "open_to"    : "collabs, internships, interesting problems"
+}
+```
 
-**Databases & Tools:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-**Data Analysis & Visualization:**  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### `stack`
 
+<table>
+<tr>
+<td valign="top" width="33%">
 
+**languages**
+```
+Python      ████████████  
+Java        █████████░░░  
+JavaScript  ████████░░░░  
+Dart        ██████░░░░░░  
+C           █████░░░░░░░  
+Kotlin      ████░░░░░░░░  
+```
 
-## Connect With Me
+</td>
+<td valign="top" width="33%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheethalkaran)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheethalkaran89@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheethalkaran)
+**frameworks**
+```
+FastAPI / Flask / Node.js
+Jetpack Compose / Flutter
+Streamlit
+scikit-learn / spaCy
+MVVM architecture
+```
+
+</td>
+<td valign="top" width="33%">
+
+**tools**
+```
+Git + GitHub
+Android Studio
+VS Code
+MongoDB / MySQL
+Docker
+Postman
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `projects`
+
+> pinned below ↓ — here's the tl;dr
+
+| project | what it does | stack |
+|---------|-------------|-------|
+| **TripGenie** | AI travel planner — itineraries, packing lists, chatbot | Kotlin · Jetpack Compose · FastAPI |
+| **E-Challan & Ambulance Alert** | IoT detects ambulances → alerts nearby vehicles in real time | IoT · Flutter · Node.js · MongoDB |
+| **Skill-Based Project Recommender** | extracts skills from your resume → suggests relevant projects | Python · Flask · TF-IDF · spaCy |
+| **Health Analytics Platform** | wearable data → anomaly detection + dashboard | Python · ML · Streamlit |
+| **Voice-to-Notes** | lecture audio → transcripts, quizzes, flashcards | Speech-to-text · GenAI · HuggingFace |
+
+---
+
+### `internships`
+
+```
+🟣 Infosys Springboard     Nov 2025 – Jan 2026   Python Full Stack
+🟢 Edunet Foundation        Sep 2025 – Oct 2025   Artificial Intelligence  
+🔵 Sasken Technologies      Jun 2025 – Jul 2025   Android Development
+```
+
+---
+
+### `certifications`
+
+- 📜 Python for Data Science — **NPTEL**
+- 📜 Postman API Fundamentals — **NITK Surathkal**
+
+---
+
+### `stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheethalkaran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheethalkaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
+
+</div>
+
+---
+
+### `connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheethalkaran)
+[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/sheethalkaran)
+[![Mail](https://img.shields.io/badge/mail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:sheethalkaran89@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>profile views <img src="https://komarev.com/ghpvc/?username=sheethalkaran&style=flat-square&color=6366f1" alt=""/></sub>
+</div>
+```
