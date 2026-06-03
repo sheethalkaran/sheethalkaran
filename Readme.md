@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=gradient&customColorList=12,20,24,30&text=Sheethal%20Karan&fontColor=ffffff&fontSize=65&animation=twinkling&desc=Software%20Developer%20|%20Android%20|%20AI%20&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:7F00FF,50:E100FF,100:00D4FF&text=Sheethal%20Karan&fontSize=65&fontColor=ffffff&animation=twinkling"/>
 </p>
 </p>
 
