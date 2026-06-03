@@ -22,54 +22,38 @@ Currently Learning:
   - System Design
 ```
 
-<h2 align="center">🌌 Connect With Me</h2>
+## Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sheethalkaran" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sheethalkaran89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sheethalkaran" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sheethalkaran">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sheethalkaran89@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sheethalkaran">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
   </a>
 </p>
 
-
-<h2 align="center">⚡ Connect</h2>
-
 <p align="center">
-<a href="https://linkedin.com/in/sheethalkaran">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sheethalkaran89@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sheethalkaran">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=2000&color=A78BFA&center=true&width=450&lines=Let's+Connect;Open+to+Opportunities;Always+Learning+and+Building" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sheethalkaran">
-    <img height="50" src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-
-  <a href="mailto:sheethalkaran89@gmail.com">
-    <img height="50" src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-
-  <a href="https://github.com/sheethalkaran">
-    <img height="50" src="https://skillicons.dev/icons?i=github"/>
-  </a>
+  <b>LinkedIn</b> • <b>Email</b> • <b>GitHub</b>
 </p>
