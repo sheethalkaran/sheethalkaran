@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:312E81,100:7C3AED&text=Sheethal%20Karan&fontColor=ffffff&fontSize=65&animation=twinkling"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=60A5FA&center=true&width=850&lines=Software+Developer;AI+%26+Machine+Learning;Data+Analytics;Android+Developer;Open+to+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=60A5FA&center=true&width=700&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
 </p>
 
 ## About Me
