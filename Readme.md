@@ -26,18 +26,47 @@ Currently Learning:
 
 <p align="center">
   <a href="https://linkedin.com/in/sheethalkaran" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="42"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:sheethalkaran89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="42"/>
+  </a>
+
+  <a href="https://github.com/sheethalkaran" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="42"/>
+  </a>
+</p>
+
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sheethalkaran">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+  </a>
   
   <a href="mailto:sheethalkaran89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
   </a>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/sheethalkaran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40"/>
+  <a href="https://github.com/sheethalkaran">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="50"/>
+  </a>
+</p>
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sheethalkaran">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48"/>
+  </a>
+  &ensp;&ensp;
+  <a href="mailto:sheethalkaran89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="48"/>
+  </a>
+  &ensp;&ensp;
+  <a href="https://github.com/sheethalkaran">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="48"/>
   </a>
 </p>
