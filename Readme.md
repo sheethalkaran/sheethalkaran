@@ -26,34 +26,18 @@ Currently Learning:
 
 <p align="center">
   <a href="https://linkedin.com/in/sheethalkaran" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:sheethalkaran89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://github.com/sheethalkaran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40"/>
   </a>
-</p>
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/sheethalkaran">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sheethalkaran89@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/sheethalkaran">
-    <img src="https://skillicons.dev/icons?i=github" height="55" />
-  </a>
-</p>
-
-<p align="center">
-  <b>LinkedIn</b> • <b>Email</b> • <b>GitHub</b>
 </p>
