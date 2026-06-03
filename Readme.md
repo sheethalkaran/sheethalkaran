@@ -15,7 +15,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=FACC15&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
 </p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=60A5FA&center=true&width=700&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:172554,50:8B5CF6,100:F9A8D4&text=Sheethal%20Karan&fontColor=ffffff&fontSize=65&animation=twinkling"/>
 
