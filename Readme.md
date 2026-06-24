@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=F9FAFB&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
 </p>
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3A8A,50:7C3AED,100:EC4899&text=Sheethal%20Karan&fontColor=FFFFFF&fontSize=65&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=172554&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+×+Machine+Learning;Open+to+Opportunities"/>
-
-</p>
-
 ## About Me
 ```yaml
 Role: Software Developer
