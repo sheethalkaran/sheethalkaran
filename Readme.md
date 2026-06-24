@@ -3,6 +3,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=F9FAFB&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
 </p>
 
+<!-- D8B4FE : Very Light Lavender -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=D8B4FE&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
+
+<!-- E9D5FF : Pastel Lavender -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=E9D5FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
+
+<!-- F3E8FF : White-Purple -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=F3E8FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
+
+<!-- F5D0FE : Pink Lavender -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=F5D0FE&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
+
+
+
 ## About Me
 ```yaml
 Role: Software Developer
