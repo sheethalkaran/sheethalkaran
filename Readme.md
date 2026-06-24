@@ -5,8 +5,6 @@
  
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=F472B6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=EC4899&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=C084FC&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1500&color=FF69B4&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science;Software+Development+%C3%97+Machine+Learning;Open+to+Opportunities" />
